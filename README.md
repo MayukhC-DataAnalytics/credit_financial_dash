@@ -132,7 +132,4 @@ Overview YTD:
 7. Overall Activation rate is 57.5 %.
 8. Overall deliquent rate is 6.06 %.
 
-To Add in Resume:
-1. Developed an interactive dashboard dusing transaction and customer data from SQL Database to provide real time insights.
-2. Streamlined data processing and analysis to monitor key performance metrics and trends.
-3. Shared actionable insights with stakeholders based on dashboard findings to support decison making process.
+
